@@ -1,4 +1,4 @@
-# Kiểm thử đơn vị Tests
+# Kiểm thử đơn vị
 
 Các kiểm thử đơn vị cho Jelly được bao gồm và chúng sử dụng mô-đun Kiểm thử đơn vị của Kohana.
 Hãy chạy các kiểm thử này nếu bạn đóng góp bất kỳ mã để giảm thiểu nguy cơ của việc tạo ra các lỗi mới.
