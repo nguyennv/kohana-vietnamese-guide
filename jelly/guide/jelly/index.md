@@ -2,7 +2,7 @@
 
 Đây là tài liệu cho Jelly, một ORM cho Kohana 3.1+.
 
-[!!] __Xin lưu ý:__ phiên bản này của Jelly làm một rẽ nhánh cộng đồng, và mục tiêu của nó là đảm bảo khả năng tương thích với phiên phản Kohana mới nhất và sửa các lỗi. Nó đã được tạo, bởi vì [mô-đun chính thức](http://github.com/jonathangeiger/kohana-jelly) không được cập nhật gần đây.
+[!!] __Xin lưu ý:__ phiên bản này của Jelly là một rẽ nhánh cộng đồng, và mục tiêu của nó là đảm bảo khả năng tương thích với phiên phản Kohana mới nhất và sửa các lỗi. Nó đã được tạo, bởi vì [mô-đun chính thức](http://github.com/jonathangeiger/kohana-jelly) không được cập nhật gần đây.
 
 Trước hết, nếu bạn đã cảm thấy mất cảm giác tự do để đặt một câu hỏi trong [diễn đàn Kohana](http://forum.kohanaframework.org)-tất cả chúng ta rất tốt đẹp và hữu ích.
 Nếu bạn cảm thấy tốt hơn nhìn vào mã nguồn, bạn có thể luôn luôn [xem tài liệu API](../api/Jelly) hoặc [duyệt mã nguồn trên Github](https://github.com/creatoro/jelly).
