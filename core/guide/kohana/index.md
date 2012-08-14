@@ -8,7 +8,7 @@ Kohana là một [khung ứng dụng web - web framework](http://wikipedia.org/w
 
 Bất kỳ thứ gì có thể được mở rộng bằng việc sử dụng thiết kế [hệ thống tập tin](files) duy nhất, ít hoặc không có [cấu hình](config) cần thiết, [xử lý lỗi](errors) giúp định vị nguồn của các lỗi nhanh chóng, và việc [gỡ rối](debugging) và [lập hồ sơ](profiling) cung cấp cái nhìn sâu sắc vào ứng dụng.
 
-Để giúp bảo mật các ứng dụng của bạn, các công cụ cho [loại bỏ XSS]security/xss), [xác nhận đầu vào](security/validation), [ký cookies](security/cookies), các bộ sinh [biểu mẫu](security/forms) và [HTML](security/html) được bao gồm tất cả. Tầng [cơ sở dữ liệu](security/database) cung cấp việc bảo vệ chống lại [tiêm SQL](http://wikipedia.org/wiki/SQL_Injection). Tất nhiên, tất cả các mã chính thức được viết và xem xét cẩn thận đối với bảo mật.
+Để giúp bảo mật các ứng dụng của bạn, các công cụ cho [loại bỏ XSS](security/xss), [xác nhận đầu vào](security/validation), [ký cookies](security/cookies), các bộ sinh [biểu mẫu](security/forms) và [HTML](security/html) được bao gồm tất cả. Tầng [cơ sở dữ liệu](security/database) cung cấp việc bảo vệ chống lại [tiêm SQL](http://wikipedia.org/wiki/SQL_Injection). Tất nhiên, tất cả các mã chính thức được viết và xem xét cẩn thận đối với bảo mật.
 
 ## Đóng góp tài liệu
 
