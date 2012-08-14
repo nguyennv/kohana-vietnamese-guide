@@ -162,7 +162,7 @@ Như đã nêu ở phần đầu của mục dấu ngoặc của mảng, cú ph�
 
 ### Quy ước đặt tên
 
-Kohana sử dụng đặt tên gạch dưới - under_score, không sử dụng đặt tên kiểu camelCase.
+Kohana sử dụng cách đặt tên gạch dưới - under_score, không sử dụng đặt tên kiểu camelCase.
 
 #### Lớp
 
@@ -208,7 +208,7 @@ Bạn phải sử dụng ký tự tab để thụt đầu dòng mã của bạn.
 Khoảng trắng dọc (cho nhiều dòng) được thực hiện bằng các khoảng trắng.
 Các dấu tab không tốt cho canh lề dọc vì nhiều người khác nhau có độ rộng tab khác nhau.
 
-	$text = 'đây là một khối văn bản dài mà được bọc. Thông thường, chúng tôi nhằm mục đích '
+	$text = 'Đây là một khối văn bản dài mà được bọc. Thông thường, chúng tôi nhằm mục đích '
 		  . 'bao gói ở 80 ký tự. Canh hàng đứng là rất quan trọng cho mã có thể đọc được. '
 		  . 'Hãy nhớ rằng tất cả thụt ròng được thực hiện với các dấu tab,nhưng canh lề '
 		  . 'dọc nên được hoàn thành với các khoảng trống, sau việc thụt dòng với các dấu tab.';
