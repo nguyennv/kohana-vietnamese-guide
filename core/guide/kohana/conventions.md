@@ -156,7 +156,7 @@ Như đã nêu ở phần đầu của mục dấu ngoặc của mảng, cú ph�
 	// Đúng
 	do(array(...))
 	
-	// Thay thể cho việc bao gói các dòng dài
+	// Thay thế cho việc bao gói các dòng dài
 	do($bar, 'this is a very long line',
 		array(...));
 
