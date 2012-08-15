@@ -13,7 +13,7 @@ Các quy ước sau đây áp dụng:
 
 1. Tên lớp CamelCased không được sử dụng, trừ khi nó là không mong muốn để tạo ra một mức thư mục mới.
 2. Tất cả các tên tập tin lớp và tên thư mục là viết thường.
-3. Tất cả các lớp nên ở trong thư mục `classes`. Điều này có thể ở bất cứ cấp trong [hệ thống tập tin phân cấp](files).
+3. Tất cả các lớp nên ở trong thư mục `classes`. Điều này có thể ở bất cứ cấp nào trong [hệ thống tập tin phân cấp](files).
 
 ### Ví dụ  {#class-name-examples}
 
@@ -157,7 +157,7 @@ Như đã nêu ở phần đầu của mục dấu ngoặc của mảng, cú ph�
 	do(array(...))
 	
 	// Thay thế cho việc bao gói các dòng dài
-	do($bar, 'this is a very long line',
+	do($bar, 'Đây là một dòng rất dài',
 		array(...));
 
 ### Quy ước đặt tên
