@@ -32,7 +32,7 @@ Giao diện rất giống với Trình dựng truy vấn cơ sở dữ liệu c�
 Để thực thi truy vấn bạn kết thúc việc xây dựng truy vấn của bạn với phương thức `select()`, cái mà trả về một `Jelly_Collection`.
 Một `Jelly_Collection` chứa một tập hợp các bản ghi đó, khi duyệt qua việc trả về các mô hình cho bản để làm việc với.
 
-[!!] **Lưu ý**: Lưu ý: Bất cứ khi nào bạn `limit()` một truy vấn là 1, `select()` trả về một thể hiển của mô hình một cách trực tiếp, thay vì trả về một `Jelly_Collection`
+[!!] **Lưu ý**: Lưu ý: Bất cứ khi nào bạn `limit()` một truy vấn là 1, `select()` trả về một thể hiện của mô hình một cách trực tiếp, thay vì trả về một `Jelly_Collection`
 
 ### Điều kiện
 

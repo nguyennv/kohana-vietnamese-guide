@@ -10,7 +10,7 @@ Ví dụ, tài liệu cho Kohana trong `system/guide/kohana` và tài liệu cho
 
 Mỗi mô-đun có một trang index tại `guide/<module>/index.md`.
 
-Mỗi trình đơn của mô-đun ở tại `guide/<module>/menu.md`.
+Mỗi trình đơn của mô-đun tại `guide/<module>/menu.md`.
 
 Tất cả các trang khác ở trong `guide/<module>` và có thể được tổ chức trong các thư mục con và đặt tên mà bạn muốn.
 

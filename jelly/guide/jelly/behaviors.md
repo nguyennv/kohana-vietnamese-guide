@@ -3,7 +3,7 @@
 Jelly làm cho nó có thể tạo ra các hành vi mà định nghĩa các hành động được thực hiện trên một sự kiện cụ thể, ví dụ như trước khi lưu một mô hình hoặc sau khi lưu một mô hình.
 Nhưng chúng có nhiều khả năng hơn thì đây là **Ngân hàng** mô tả chúng:
 
-> Hành vi cho phép bạn thêm chức năng cho _các thể hiển_ mô hình (cũng như các trình dựng mô hình) trong một cách mà nhiều thừa kế có thể đạt được. Ví dụ một mô hình có thể có trật tự MPTT VÀ là phiên bản điều khiển đơn giản bằng cách khai báo rằng nó sẽ hiển thị cả hai hành vi. Một mô hình khác chỉ có thể hỗ trợ MPTT không có cây thừa kế phức tạp hoặc trùng lặp mã.
+> Hành vi cho phép bạn thêm chức năng cho _các thể hiện_ mô hình (cũng như các trình dựng mô hình) trong một cách mà nhiều thừa kế có thể đạt được. Ví dụ một mô hình có thể có trật tự MPTT VÀ là phiên bản điều khiển đơn giản bằng cách khai báo rằng nó sẽ hiển thị cả hai hành vi. Một mô hình khác chỉ có thể hỗ trợ MPTT không có cây thừa kế phức tạp hoặc trùng lặp mã.
 >
 > Thực tế rằng một hành vi có thể thêm các cải tiến tới trình dựng mô hình có thể làm mờ các dòng một chút nhưng điều này là đơn giản vì vậy nếu bạn khai báo rằng mô hình của bạn cư xử một cách nào đó, mà có thể bao hàm chức năng nhất định cho cả hai trường hợp của mô hình đó và danh sách mô hình đó.
 >

@@ -222,9 +222,9 @@ sẽ hiển thị giống như:
 	
 [!!] Đây là một lưu ý
 
-## Tiêu đề tự đống lấy các ID
+## Tiêu đề tự động lấy các ID
 
-Các tiêu đề được tự đống gán một id, dựa trên nội dung của tiêu đề, do đó mỗi tiêu đề có thể được liên kết tới. Bạn có thể tự gán một id khác bằng việc sử dụng cú pháp như đã định nghĩa trong Markdown Extra. Nếu nhiều tiêu đề có cùng nội dung (v.d. nhiều hơn một tiêu đề "Ví dụ"), chỉ tiêu đề đầu tiên sẽ tự động được gán một id, do đó bạn nên tự gán thêm các id mô tả. Ví dụ:
+Các tiêu đề được tự động gán một id, dựa trên nội dung của tiêu đề, do đó mỗi tiêu đề có thể được liên kết tới. Bạn có thể tự gán một id khác bằng việc sử dụng cú pháp như đã định nghĩa trong Markdown Extra. Nếu nhiều tiêu đề có cùng nội dung (v.d. nhiều hơn một tiêu đề "Ví dụ"), chỉ tiêu đề đầu tiên sẽ tự động được gán một id, do đó bạn nên tự gán thêm các id mô tả. Ví dụ:
 
 	### Ví dụ     {#more-descriptive-id}
 

@@ -14,6 +14,6 @@ Mô-đun cơ sở dữ liệu được bao gồm với cài đặt Kohana 3.2 , 
 
 Tiếp theo, bạn cần [cấu hình](config) mô-đun cơ sở dữ liệu để kết nối tới cơ sở dữ liệu của bạn.
 
-Khi mà đã thực hiện xong sau đó bạn có thể tạo các [truy vấn] (query)và sử dụng [các kết quả](results).
+Khi mà đã thực hiện xong sau đó bạn có thể tạo các [truy vấn](query) và sử dụng [các kết quả](results).
 
 Mô-đun cơ sở dữ liệu cũng cung cấp một a [trình điều khiển cấu hình](../api/Kohana_Config_Database) (cho việc lưu trữ [cấu hình](../kohana/files/config) trong cơ sở dữ liệu) và một [trình điều khiển phiên làm vệc](Session_Database).

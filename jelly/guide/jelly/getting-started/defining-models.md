@@ -1,7 +1,7 @@
 # Định nghĩa mô hình
 
 Nơi đầu tiên để bắt đầu với bất kỳ ORM nào là định nghĩa các mô hình của bạn.
-Jelly chia tác các mô hình vào trong một vài thành phần riêng biệt mà làm cho API chặt chẽ hơn và có thể mở rộng.
+Jelly chia tách các mô hình vào trong một vài thành phần riêng biệt mà làm cho API chặt chẽ hơn và có thể mở rộng.
 
 Trước tiên, hãy bắt đầu với một mô hình mẫu:
 

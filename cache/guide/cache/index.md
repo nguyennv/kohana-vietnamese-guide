@@ -28,13 +28,13 @@ Nếu việc tạo bộ nhớ đệm các tập dữ liệu lớn, chẳng hạn
 
 ## Những gì mà mô-đun bộ nhớ đệm Kohana làm (và không làm)
 
-Mô-đun này cung cập một giao diện trừu tượng đơn giản có nhiều lựa chọn các động cơ bộ nhớ đệm phổ biến của PHP.
+Mô-đun này cung cấp một giao diện trừu tượng đơn giản có nhiều lựa chọn các động cơ bộ nhớ đệm phổ biến của PHP.
 API bộ nhớ đệm cung cấp các phương thức bộ nhớ đệm cơ bản được thực hiện qua tất cả giải pháp, bộ nhớ, mạng hoặc dựa trên đĩa.
 Việc lưu khoá / giá trị cơ bản được hỗ trợ bằng tất cả trình điều khiển, với tính năng gắn thẻ bổ xung và hỗ trợ thu gom rác nơi được thực hiện hoặc được yêu cầu.
 
 _Bộ nhớ đệm Kohana_ không cung cấp bộ nhớ đệm phong cách HTTP cho trình khách (trình duyệt web) và/hoặc các proxy (_Varnish_, _Squid_). Có các mô-đun khác mà cung cấp chức năng này.
 
-## Chọn một trình cung cập bộ nhớ đệm
+## Chọn một trình cung cấp bộ nhớ đệm
 
 Việc nhận và thiết lập các giá trị tới bộ nhớ đệm là rất đơn giản khi sử dụng gia diện _Bộ nhớ đệm Kohana_.
 Sự lựa chọn khó khắn nhất là lựa chọn động cơ bộ nhớ đệm để sử dụng.
